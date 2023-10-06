@@ -37,7 +37,7 @@ node_modules/
 jspm_packages/
 
 # Build directories
-dist/
+#dist/
 tmp/
 
 # Optional npm cache directory

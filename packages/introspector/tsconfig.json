@@ -9,5 +9,6 @@
         }
     },
     "include": ["src/**/*", "tests/**/*"],
-    "references": [{ "path": "../graphql/tsconfig.json" }]
+    "references": [{ "path": "../graphql/tsconfig.json" }],
+    "declaration": true
 }

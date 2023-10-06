@@ -1,0 +1,1 @@
+{"version":3,"file":"get-concrete-entities.js","sourceRoot":"","sources":["../../../../src/translate/queryAST/utils/get-concrete-entities.ts"],"names":[],"mappings":";AAAA;;;;;;;;;;;;;;;;;GAiBG;;;AAKH,6DAAwD;AAExD,SAAgB,mBAAmB,CAC/B,MAA2E;IAE3E,IAAI,IAAA,qCAAgB,EAAC,MAAM,CAAC;QAAE,OAAO,CAAC,MAAM,CAAC,CAAC;IAC9C,OAAO,MAAM,CAAC,gBAAgB,CAAC;AACnC,CAAC;AALD,kDAKC"}
